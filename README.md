@@ -1,1 +1,1 @@
-This is for long lists
+This is for showing file type
