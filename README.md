@@ -1,1 +1,1 @@
-This is for creating symbolic links
+This is for copying html files
