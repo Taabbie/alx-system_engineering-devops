@@ -1,1 +1,1 @@
-This is for showing file type
+This is for creating symbolic links
