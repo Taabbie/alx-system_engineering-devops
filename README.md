@@ -1,1 +1,1 @@
-This is for numbers only
+This is for creating a directory
