@@ -1,1 +1,1 @@
- This is for moving that file
+This is for deleting a file
