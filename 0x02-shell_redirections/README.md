@@ -1,1 +1,1 @@
-deleting regular js files
+deleting js files
