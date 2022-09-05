@@ -1,1 +1,1 @@
-script that writes the words hello world
+deleting regular js files
