@@ -1,1 +1,1 @@
-counting directories and sub directories
+finding directories
